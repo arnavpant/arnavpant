@@ -17,10 +17,10 @@ CS grad (Virginia Tech '26) focused on distributed systems and production AI int
 
 <table>
   <tr>
-    <td align="center"><h2>40K+</h2>PRODUCTION USERS</td>
+    <td align="center"><h2>40K+</h2>WEBCAT STUDENTS</td>
     <td align="center"><h2>46+</h2>REST APIs SHIPPED</td>
-    <td align="center"><h2>&lt;50ms</h2>DIAGNOSTIC LATENCY</td>
-    <td align="center"><h2>150K+</h2>ANNUAL JOB SUBMISSIONS</td>
+    <td align="center"><h2>&lt;50ms</h2>SERVICE DIAGNOSTIC LATENCY</td>
+    <td align="center"><h2>150K+</h2>ANNUAL GRADING SUBMISSIONS</td>
   </tr>
 </table>
 
