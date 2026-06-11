@@ -1,0 +1,8 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#0A0A0A"/>
+  <rect x="0" y="0" width="14" height="280" fill="#FF5C00"/>
+  <text x="64" y="130" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800" fill="#EDEDED" letter-spacing="-2">ARNAV PANT</text>
+  <text x="64" y="172" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="5" fill="#FF5C00">SOFTWARE ENGINEER</text>
+  <text x="64" y="206" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#999999">AI Integration  ·  Distributed Systems  ·  Full-Stack</text>
+  <text x="64" y="240" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6B6B6B">Virginia Tech '26  —  Production systems with Claude, Gemini, Kafka &amp; Kubernetes</text>
+</svg>
