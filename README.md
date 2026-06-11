@@ -3,10 +3,15 @@
   <img src="assets/banner-light.svg" alt="Arnav Pant — Software Engineer">
 </picture>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF5C00&center=true&vCenter=true&width=700&height=40&lines=Distributed+Systems+Engineer;Production+AI+Integration;Claude+%C2%B7+Gemini+%C2%B7+Kafka+%C2%B7+Kubernetes;Open+to+Full-Stack+%2F+Backend+Roles)](https://github.com/arnavpant)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavpant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavpant)
 [![Portfolio](https://img.shields.io/badge/Portfolio-arnavpant.github.io-FF5C00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://arnavpant.github.io/Personal-Portfolio/)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Full--Stack_%2F_Backend_%C2%B7_Available_Jun_2026-FF5C00?style=for-the-badge&labelColor=111111)
+
+</div>
 
 ```ts
 const arnav = {
@@ -98,7 +103,6 @@ flowchart LR
 ### Currently
 
 🔭 Building production AI integrations and distributed systems
-📍 Open to full-stack / backend SWE roles — available June 2026
 📫 Reach out via the contact links above, or below
 
 ---
