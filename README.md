@@ -8,7 +8,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavpant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavpant)
 [![Portfolio](https://img.shields.io/badge/Portfolio-arnavpant.github.io-FF5C00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://arnavpant.github.io/Personal-Portfolio/)
 
-CS grad (Virginia Tech '26) focused on distributed systems and production AI integration. Recently shipped a production LLM-powered fintech app in 6 weeks (Plaid + Claude/Gemini), and built a fault-tolerant Kafka + Vertex AI architecture. Currently exploring full-stack/backend roles.
+```ts
+const arnav = {
+  role: "Software Engineer",
+  grad: "Virginia Tech '26",
+  focus: ["distributed systems", "production AI integration"],
+  recentShip: "LLM-powered fintech app — 6 weeks, Plaid + Claude/Gemini",
+  status: "open_to_fullstack_or_backend_roles",
+};
+```
+
+CS grad (Virginia Tech '26) focused on distributed systems and production AI integration. Recently shipped a production LLM-powered fintech app in 6 weeks (Plaid + Claude/Gemini), and built a fault-tolerant Kafka + Vertex AI architecture.
 
 ![Production Users](https://img.shields.io/badge/Production_Users-40K+-FF5C00?style=for-the-badge&labelColor=111111)
 ![REST APIs](https://img.shields.io/badge/REST_APIs_Shipped-46+-FF5C00?style=for-the-badge&labelColor=111111)
@@ -19,13 +29,25 @@ CS grad (Virginia Tech '26) focused on distributed systems and production AI int
 
 ### Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,ts,react,nextjs,kubernetes,kafka,postgres,docker&theme=dark&perline=9">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,react,nextjs,kubernetes,kafka,postgres,docker&theme=light&perline=9" alt="Java, Python, TypeScript, React/Next.js, Kubernetes, Apache Kafka, PostgreSQL, Docker">
-</picture>
+**Languages** &nbsp; `Java` `Python` `TypeScript` `JavaScript` `Kotlin` `SQL`
 
-![Claude API](https://img.shields.io/badge/Claude_API-FF5C00?style=for-the-badge&labelColor=111111)
-![Gemini / Vertex AI](https://img.shields.io/badge/Gemini_%2F_Vertex_AI-FF5C00?style=for-the-badge&labelColor=111111)
+**AI / LLM** &nbsp; `Claude API` `Gemini API` `Vertex AI` `Agentic Systems` `MCP` `LLM Integration`
+
+**Frameworks** &nbsp; `React` `Next.js` `React Native` `Django` `FastAPI`
+
+**Infra & Data** &nbsp; `PostgreSQL` `Supabase` `Kubernetes` `Docker` `Apache Kafka` `Azure DevOps`
+
+---
+
+### Experience
+
+| Role | Organization | When |
+|---|---|---|
+| Full-Stack Engineer | Finnimo | Nov 2025 – Present |
+| LLM Undergraduate Researcher | Virginia Tech | May 2025 – May 2026 |
+| Solutions Architect Intern | Al Ansari Group of Companies | Dec 2025 – Jan 2026 |
+| Android SWE Intern | Altius Strategic Consulting | May – Aug 2024 |
+| Power Apps Intern | Altius Strategic Consulting | May – Aug 2023 |
 
 ---
 
@@ -47,6 +69,20 @@ CS grad (Virginia Tech '26) focused on distributed systems and production AI int
 
 `Python` `Apache Kafka` `Vertex AI` `Gemini 1.5 Pro` `FastAPI`
 → [github.com/arnavpant/Ouroboros](https://github.com/arnavpant/Ouroboros)
+
+<details>
+<summary>Architecture overview</summary>
+
+```mermaid
+flowchart LR
+    A[Transaction Stream] --> B[Kafka Event Bus]
+    B --> C[Circuit Breaker Service]
+    C -->|healthy| D[Vertex AI / Gemini Agent]
+    C -->|unstable| E[Suspend & Isolate]
+    D --> F[FastAPI Diagnostics Stream]
+```
+
+</details>
 
 ### WebCat Capstone — Kubernetes Scheduler at Scale
 **40,000+ students · 30+ universities · 150,000+ annual job submissions**
