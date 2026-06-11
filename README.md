@@ -3,12 +3,29 @@
   <img src="assets/banner-light.svg" alt="Arnav Pant — Software Engineer">
 </picture>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF5C00&center=true&vCenter=true&width=700&height=40&lines=Distributed+Systems+Engineer;Production+AI+Integration;Claude+%C2%B7+Gemini+%C2%B7+Kafka+%C2%B7+Kubernetes;Open+to+Full-Stack+%2F+Backend+Roles)](https://github.com/arnavpant)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavpant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavpant)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arnavpant.github.io-FF5C00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://arnavpant.github.io/Personal-Portfolio/)
+
 CS grad (Virginia Tech '26) focused on distributed systems and production AI integration. Recently shipped a production LLM-powered fintech app in 6 weeks (Plaid + Claude/Gemini), and built a fault-tolerant Kafka + Vertex AI architecture. Currently exploring full-stack/backend roles.
 
-![Production Users](https://img.shields.io/badge/Production_Users-40K+-FF5C00?style=flat-square&labelColor=111111)
-![REST APIs](https://img.shields.io/badge/REST_APIs_Shipped-46+-FF5C00?style=flat-square&labelColor=111111)
-![Latency](https://img.shields.io/badge/Diagnostic_Latency-%3C50ms-FF5C00?style=flat-square&labelColor=111111)
-![Annual Jobs](https://img.shields.io/badge/Annual_Job_Submissions-150K+-FF5C00?style=flat-square&labelColor=111111)
+![Production Users](https://img.shields.io/badge/Production_Users-40K+-FF5C00?style=for-the-badge&labelColor=111111)
+![REST APIs](https://img.shields.io/badge/REST_APIs_Shipped-46+-FF5C00?style=for-the-badge&labelColor=111111)
+![Latency](https://img.shields.io/badge/Diagnostic_Latency-%3C50ms-FF5C00?style=for-the-badge&labelColor=111111)
+![Annual Jobs](https://img.shields.io/badge/Annual_Job_Submissions-150K+-FF5C00?style=for-the-badge&labelColor=111111)
+
+---
+
+### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,ts,react,nextjs,kubernetes,kafka,postgres,docker&theme=dark&perline=9">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,react,nextjs,kubernetes,kafka,postgres,docker&theme=light&perline=9" alt="Java, Python, TypeScript, React/Next.js, Kubernetes, Apache Kafka, PostgreSQL, Docker">
+</picture>
+
+![Claude API](https://img.shields.io/badge/Claude_API-FF5C00?style=for-the-badge&labelColor=111111)
+![Gemini / Vertex AI](https://img.shields.io/badge/Gemini_%2F_Vertex_AI-FF5C00?style=for-the-badge&labelColor=111111)
 
 ---
 
@@ -42,27 +59,11 @@ CS grad (Virginia Tech '26) focused on distributed systems and production AI int
 
 ---
 
-### 2026 Activity
+### Currently
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arnavpant&year=2026&bg_color=0a0a0a&color=ededed&line=FF5C00&point=FF5C00&area=true&area_color=FF5C00&hide_border=true&area_alpha=0.15">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavpant&year=2026&bg_color=ffffff&color=111111&line=FF5C00&point=FF5C00&area=true&area_color=FF5C00&hide_border=true&area_alpha=0.1" alt="2026 contribution activity graph">
-</picture>
-
----
-
-### Stack
-
-![Java](https://img.shields.io/badge/-Java-111111?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-111111?style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111111?style=flat-square)
-![React](https://img.shields.io/badge/-React%20%2F%20Next.js-111111?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-111111?style=flat-square)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-111111?style=flat-square)
-![Claude](https://img.shields.io/badge/-Claude%20API-111111?style=flat-square)
-![Gemini](https://img.shields.io/badge/-Gemini%20%2F%20Vertex%20AI-111111?style=flat-square)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-111111?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-111111?style=flat-square)
+🔭 Building production AI integrations and distributed systems
+📍 Open to full-stack / backend SWE roles — available June 2026
+📫 Reach out via the contact links above, or below
 
 ---
 
@@ -70,5 +71,3 @@ CS grad (Virginia Tech '26) focused on distributed systems and production AI int
   <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg">
   <img src="assets/email-light.svg" alt="email">
 </picture>
-
-[LinkedIn](https://linkedin.com/in/arnavpant) · [Portfolio](https://arnavpant.github.io/Personal-Portfolio/)
