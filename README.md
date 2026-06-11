@@ -15,10 +15,14 @@
 
 CS grad (Virginia Tech '26) focused on distributed systems and production AI integration. Recently shipped a production LLM-powered fintech app in 6 weeks (Plaid + Claude/Gemini), and built a fault-tolerant Kafka + Vertex AI architecture.
 
-![Production Users](https://img.shields.io/badge/Production_Users-40K+-FF5C00?style=for-the-badge&labelColor=111111)
-![REST APIs](https://img.shields.io/badge/REST_APIs_Shipped-46+-FF5C00?style=for-the-badge&labelColor=111111)
-![Latency](https://img.shields.io/badge/Diagnostic_Latency-%3C50ms-FF5C00?style=for-the-badge&labelColor=111111)
-![Annual Jobs](https://img.shields.io/badge/Annual_Job_Submissions-150K+-FF5C00?style=for-the-badge&labelColor=111111)
+<table>
+  <tr>
+    <td align="center"><h2>40K+</h2><sub>PRODUCTION USERS</sub></td>
+    <td align="center"><h2>46+</h2><sub>REST APIs SHIPPED</sub></td>
+    <td align="center"><h2>&lt;50ms</h2><sub>DIAGNOSTIC LATENCY</sub></td>
+    <td align="center"><h2>150K+</h2><sub>ANNUAL JOB SUBMISSIONS</sub></td>
+  </tr>
+</table>
 
 ---
 
