@@ -5,23 +5,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF5C00&center=true&vCenter=true&width=700&height=40&lines=Distributed+Systems+Engineer;Production+AI+Integration;Claude+%C2%B7+Gemini+%C2%B7+Kafka+%C2%B7+Kubernetes;Open+to+Full-Stack+%2F+Backend+Roles)](https://github.com/arnavpant)
+**Distributed Systems Engineer** · **Production AI Integration** · Claude · Gemini · Kafka · Kubernetes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavpant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavpant)
 [![Portfolio](https://img.shields.io/badge/Portfolio-arnavpant.github.io-FF5C00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://arnavpant.github.io/Personal-Portfolio/)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Full--Stack_%2F_Backend_%C2%B7_Available_Jun_2026-FF5C00?style=for-the-badge&labelColor=111111)
 
 </div>
-
-```ts
-const arnav = {
-  role: "Software Engineer",
-  grad: "Virginia Tech '26",
-  focus: ["distributed systems", "production AI integration"],
-  recentShip: "LLM-powered fintech app — 6 weeks, Plaid + Claude/Gemini",
-  status: "open_to_fullstack_or_backend_roles",
-};
-```
 
 CS grad (Virginia Tech '26) focused on distributed systems and production AI integration. Recently shipped a production LLM-powered fintech app in 6 weeks (Plaid + Claude/Gemini), and built a fault-tolerant Kafka + Vertex AI architecture.
 
@@ -56,45 +46,22 @@ CS grad (Virginia Tech '26) focused on distributed systems and production AI int
 
 ---
 
-### Finnimo — Production LLM Financial Advisor
-**46+ authenticated REST APIs** · Plaid bank linking, live market data, Claude chat interface, real-time portfolio analytics
+### Selected Work
 
-- Designed Supabase Postgres schema with Google OAuth + row-level security for per-user data isolation
-- Engineered a Claude → Gemini fallback chain with async pipelines, unit tests, and Vercel CI/CD for high availability
-- Shipped end-to-end in 6 weeks
+**Finnimo** — Production LLM financial advisor with Plaid bank linking, live market data, and a Claude-powered chat interface for real-time portfolio analytics. Shipped end-to-end in 6 weeks. Visit at [finnimo.com](https://finnimo.com)
 
 `TypeScript` `Claude API` `Gemini API` `Supabase` `Plaid`
 
-### Ouroboros — Self-Healing Event-Driven AI System
-**<50ms** agent diagnostics · Kafka-based event-driven microservices with circuit-breaker fault tolerance
+<br>
 
-- Built a Python circuit breaker monitoring real-time transactions to suspend unstable processes under fault thresholds
-- Integrated Vertex AI + Gemini 1.5 Pro through custom middleware for agentic workflows and runtime tool execution
-- Streamed real-time diagnostics via FastAPI with optimized message serialization
+**Ouroboros** — Self-healing, event-driven AI system built on Kafka with circuit-breaker fault tolerance and Vertex AI + Gemini 1.5 Pro middleware for agentic workflows. Streams real-time diagnostics via FastAPI at <50ms.
 
 `Python` `Apache Kafka` `Vertex AI` `Gemini 1.5 Pro` `FastAPI`
 → [github.com/arnavpant/Ouroboros](https://github.com/arnavpant/Ouroboros)
 
-<details>
-<summary>Architecture overview</summary>
+<br>
 
-```mermaid
-flowchart LR
-    A[Transaction Stream] --> B[Kafka Event Bus]
-    B --> C[Circuit Breaker Service]
-    C -->|healthy| D[Vertex AI / Gemini Agent]
-    C -->|unstable| E[Suspend & Isolate]
-    D --> F[FastAPI Diagnostics Stream]
-```
-
-</details>
-
-### WebCat Capstone — Kubernetes Scheduler at Scale
-**40,000+ students · 30+ universities · 150,000+ annual job submissions**
-
-- Built a custom Highest Response Ratio Next (HRRN) scheduling algorithm for the Endeavour distributed cluster's job queue
-- Refactored the execution engine to support 100+ concurrent containers, eliminating thread-pool bottlenecks
-- Decoupled the job queue into a fault-tolerant MariaDB store ensuring 99.9% data durability under cluster failure
+**WebCat Capstone** — Kubernetes scheduler for 40,000+ students across 30+ universities, orchestrating 150,000+ annual job submissions with a custom HRRN scheduling algorithm and a fault-tolerant MariaDB job queue.
 
 `Kubernetes` `Python` `Shell` `MariaDB`
 
