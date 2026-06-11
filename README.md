@@ -5,11 +5,8 @@
 
 <div align="center">
 
-<img src="assets/tagline.svg" width="90%" alt="Distributed Systems Engineer · Production AI Integration · Claude · Gemini · Kafka · Kubernetes">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arnavpant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavpant)
 [![Portfolio](https://img.shields.io/badge/Portfolio-arnavpant.github.io-FF5C00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111)](https://arnavpant.github.io/Personal-Portfolio/)
-![Open to Work](https://img.shields.io/badge/Open_to_Work-Full--Stack_%2F_Backend_%C2%B7_Available_Jun_2026-FF5C00?style=for-the-badge&labelColor=111111)
 
 </div>
 
